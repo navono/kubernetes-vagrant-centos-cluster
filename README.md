@@ -8,6 +8,9 @@ Setting up a Kubernetes cluster and Istio service mesh with `vagrantfile` which 
 
 ## Demo
 
+need install `nfs-kernel-server` first
+> sudo apt install nfs-kernel-server
+
 Click the following image to watch the video.
 
 [![Watch the video](https://img.youtube.com/vi/26kbaZxcB4A/maxresdefault.jpg)](https://youtu.be/26kbaZxcB4A)
